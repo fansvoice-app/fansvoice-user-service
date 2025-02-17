@@ -1,0 +1,6 @@
+@fansvoice_user_service_HostAddress = http://localhost:5214
+
+GET {{fansvoice_user_service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
